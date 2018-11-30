@@ -13,15 +13,14 @@
 
 >**_Inoltre a Tua disposizione ci sarà una zona relax e break area dove potrai riposarti e preparti un buon thè o un buon caffè_**
 
-```
-   Ecco Le Nostre Tariffe Promo
 
-    PRENOTAZIONE  |    COSTO
-    ------------- | -------------
-     GIORNALIERA  |  15€ + IVA
-       MENSILE    |  85€ + IVA
-       ANNUALE    | 1000€ + IVA
- ``` 
+#   Ecco Le Nostre Tariffe Promo
+
+##    PRENOTAZIONE  |    COSTO
+##    ------------- | -------------
+##     GIORNALIERA  |  15€ + IVA
+##       MENSILE    |  85€ + IVA
+##       ANNUALE    | 1000€ + IVA  
  
 <a href="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/47008226_369455500293082_2583211022231797760_n.jpg?_nc_cat=104&_nc_eui2=AeHq8XugHUhfKgtEgYRqnHlvYIwq_mf907Wogo5qg960mU2j-HcQzfqiXQNPVubVAwlOGfpfZC3-FCbfdtXGqabHfUfyEQA3M8PPffs9wzN1CQ&_nc_ht=scontent-mxp1-1.xx&oh=6aab23a380e277d82c56d2518abcb107&oe=5C67FBB0" download>Clicca qui per scaricare il nostro volantino</a>
  
