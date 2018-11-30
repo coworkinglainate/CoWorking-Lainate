@@ -1,16 +1,12 @@
-    <html>
-      <head>
-      
-
 
 # Welcome to Smart Working Lainate
 
->### _A Lainate, presso le Residenze Smart di Via Garbagnate 40/b_ 
->### _è nato Il primo spazio CoWorking della città_   
+> **_A Lainate, presso le Residenze Smart di Via Garbagnate 40/b_ 
+> **_è nato Il primo spazio CoWorking della città_   
 
-# Servizi e Struttura
+># **_Servizi e Struttura
 
->**_Smart Wate è perfetto per i Liberi Professionisti che hanno l'esigenza di lavorare in modo flessibile le tipologie di postazioni offrerte dal nostro spazio sono_** 
+>**_Smart Wate è perfetto per i Liberi Professionisti che hanno l'esigenza di lavorare in modo flessibile le tipologie di postazioni offrerte dal nostro spazio sono 
 
 #### - _Singola o di gruppo,_ 
 #### - _Spazi privati dove effettuare riunioni o confernce call._ 
@@ -29,8 +25,6 @@
 
 <body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg" alt="Girl in a jacket" style="width:1280px;height:768px;background-repeat:no-repeat;">
 
- </head>
-</html>
 
 
   
