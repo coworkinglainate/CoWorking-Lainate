@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Smart Working Lainate
 
 You can use the [editor on GitHub](https://github.com/coworkinglainate/coworking.lainate.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
