@@ -23,4 +23,4 @@
 ### **_[Facebook](https://www.facebook.com/SmartWorkingLainate/)_**
 
 <body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg" alt="Homepage"
-style="width:1280px;height:768px;background-repeat:no-repeat;background-size:cover;opacity: 0.5;filter: alpha(opacity=50);">
+style="width:1280px;height:768px;background-repeat:no-repeat;">
