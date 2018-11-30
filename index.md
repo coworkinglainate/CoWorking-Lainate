@@ -1,7 +1,7 @@
-# <span style="color:beige">*Welcome to Smart Working Lainate*</span>
+# <span style="color:indigo">*Welcome to Smart Working Lainate*</span>
 
-### <span style="color:blue">*A Lainate, presso le Residenze Smart di Via Garbagnate 40/b*</span>
-### <span style="color:ivory">è nato Il primo spazio CoWorking della città</span>   
+### <span style="color:indigo">*A Lainate, presso le Residenze Smart di Via Garbagnate 40/b*</span>
+### <span style="color:indigo">*è nato Il primo spazio CoWorking della città*</span>   
 
 # **_Servizi e Struttura_**
 
