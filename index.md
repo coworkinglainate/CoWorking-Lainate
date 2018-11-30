@@ -16,5 +16,5 @@
 #### **_[Come Raggiungerci!](https://www.google.com/maps/place/Via+Garbagnate,+40,+20020+Lainate+MI/data=!4m2!3m1!1s0x4786949b4475c127:0xf69ee47b2d416746?ved=2ahUKEwj2hu3X_vreAhUO3KQKHfYECDsQ8gEwAHoECAAQAQ)_**
 #### **_[Facebook](https://www.facebook.com/SmartWorkingLainate/)_**
 
-<body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg"height="42"width="42">
+<body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg" height="800" width="1200">
   
