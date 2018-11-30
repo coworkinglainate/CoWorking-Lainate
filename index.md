@@ -15,4 +15,4 @@ Le tipologie di postazioni offrerte dal nostro spazio sono:
 Inoltre a Tua disposizione ci sarà una zona relax e break area, 
 dove potrai riposarti e preparti un buon thè o un buon caffè.  
 
-<img src=https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg >
+![Image of Yaktocat](https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg)
