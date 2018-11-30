@@ -1,5 +1,7 @@
 # Welcome to Smart Working Lainate
 
+![](https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg)
+
 ### _A Lainate, presso le Residenze Smart di Via Garbagnate 40/b_ 
 ### _è nato Il primo spazio CoWorking della città_   
 
