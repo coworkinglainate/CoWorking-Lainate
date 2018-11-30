@@ -1,4 +1,4 @@
-# Welcome to Smart Working Lainate
+# **_Welcome to Smart Working Lainate_**
 
 **_A Lainate, presso le Residenze Smart di Via Garbagnate 40/b_**
 **_è nato Il primo spazio CoWorking della città_**   
