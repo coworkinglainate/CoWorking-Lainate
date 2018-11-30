@@ -1,7 +1,7 @@
-# <span style="color:indigo">*Welcome to Smart Working k*</span>
+# <span style="color:white">*Welcome to Smart Working*</span>
 
-### <span style="color:indigo">*A Lainate, presso le Residenze Smart di Via Garbagnate 40/b*</span>
-### <span style="color:indigo">*è nato Il primo spazio CoWorking della città*</span>   
+### <span style="color:green">*A Lainate, presso le Residenze Smart di Via Garbagnate 40/b*</span>
+### <span style="color:red">*è nato Il primo spazio CoWorking della città*</span>   
 
 # **_Servizi e Struttura_**
 
@@ -23,4 +23,4 @@
 ### **_[Facebook](https://www.facebook.com/SmartWorkingLainate/)_**
 
 <body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg" alt="Homepage"
-style="width:1280px;height:768px;background-repeat:no-repeat;opacity: 5;">
+style="width:1280px;height:768px;background-repeat:no-repeat;opacity: 50;">
