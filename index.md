@@ -1,4 +1,4 @@
-
+<div style="text-align: right"> 
 # Welcome to Smart Working Lainate
 
 >### _A Lainate, presso le Residenze Smart di Via Garbagnate 40/b_ 
@@ -25,7 +25,7 @@
 
 <body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg" alt="Girl in a jacket" style="width:1280px;height:768px;background-repeat:no-repeat;">
 
-
+</div>
 
 
 
