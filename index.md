@@ -1,11 +1,11 @@
 Welcome to Smart Working Lainate
 
-**A Lainate, presso le Residenze Smart di Via Garbagnate 40/b
-è nato Il primo spazio CoWorking della città   
+**A Lainate, presso le Residenze Smart di Via Garbagnate 40/b**
+**è nato Il primo spazio CoWorking della città**   
 
-**Servizi e Struttura
+**Servizi e Struttura**
 
-> Smart Working Laina è perfetto per i Liberi Professionisti che hanno l'esigenza di lavorare in modo flessibile le tipologie di postazioni offrerte dal nostro spazio sono 
+> Smart Working Lainate è perfetto per i Liberi Professionisti che hanno l'esigenza di lavorare in modo flessibile le tipologie di postazioni offrerte dal nostro spazio sono 
 >
 > * Singola o di gruppo 
 > * Spazi privati dove effettuare riunioni o confernce call
