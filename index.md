@@ -1,8 +1,7 @@
-## Welcome to Smart Working Lainate
+### Welcome to Smart Working Lainate
 
-You can use the [editor on GitHub](https://github.com/coworkinglainate/coworking.lainate.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nella città di Lainate, presso le Residenze Smart di Via Garbagnate 40/b, è nato # Smart Working Lainate. 
+Il primo spazio CoWorking a tua disposizione!  
 
 ### Markdown
 
