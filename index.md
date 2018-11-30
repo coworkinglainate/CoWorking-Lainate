@@ -22,6 +22,10 @@
 
 ### **_[Facebook](https://www.facebook.com/SmartWorkingLainate/)_**
 
-<body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg" alt="Girl in a jacket" style="width:1280px;height:768px;background-repeat:no-repeat;">
-
-<span style="color:blue">some This is Blue italic. text</span>
+html{ 
+            background: url('https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg') no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        } 
