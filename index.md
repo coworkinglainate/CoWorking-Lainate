@@ -15,8 +15,18 @@ _Le tipologie di postazioni offrerte dal nostro spazio sono:_
 _Inoltre a Tua disposizione ci sarà una zona relax e break area_ 
 _dove potrai riposarti e preparti un buon thè o un buon caffè_  
 
-background-image: url(https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg)
-background-size: cover;
+body{
+   
+   background-image: url('https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg');
+   min-height: 500px;
+    /* Set background image to fixed (don't scroll along with the page) */
+    background-attachment: fixed;
+    background-position: right top;
+    /* Set the background image to no repeat */
+    background-repeat: no-repeat;
+    /* Scale the background image to be as large as possible */
+    background-size: cover;
+}
 
 #### **_[Come Raggiungerci!](https://www.google.com/maps/place/Via+Garbagnate,+40,+20020+Lainate+MI/data=!4m2!3m1!1s0x4786949b4475c127:0xf69ee47b2d416746?ved=2ahUKEwj2hu3X_vreAhUO3KQKHfYECDsQ8gEwAHoECAAQAQ)_**
 #### **_[Facebook](https://www.facebook.com/SmartWorkingLainate/)_**
