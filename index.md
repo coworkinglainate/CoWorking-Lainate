@@ -19,5 +19,5 @@
 <body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg" 
 height="800" 
 width="1200"
-alling="50"/>
+alling="50">
   
