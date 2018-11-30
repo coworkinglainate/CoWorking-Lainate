@@ -5,7 +5,6 @@
 
 # Servizi e Struttura
 
-```markdown
 Smart Working Lainate è perfetto per i Liberi Professionisti 
 che hanno esigenze di lavorare in modo flessibile. 
 Le tipologie di postazioni offrerte dal nostro spazio sono: 
@@ -16,4 +15,4 @@ Le tipologie di postazioni offrerte dal nostro spazio sono:
 Inoltre a Tua disposizione ci sarà una zona relax e break area, 
 dove potrai riposarti e preparti un buon thè o un buon caffè.  
 
-```markdown
+<img src=https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg >
