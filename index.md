@@ -1,10 +1,10 @@
 # Welcome to Smart Working Lainate
 
-A Lainate, presso le Residenze Smart di Via Garbagnate 40/b, è nato 
+### A Lainate, presso le Residenze Smart di Via Garbagnate 40/b, è nato 
 ### Smart Working Lainate. 
-Il primo spazio CoWorking della città!   
+### Il primo spazio CoWorking della città!   
 
-### Markdown
+### Servizi e Struttura
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
