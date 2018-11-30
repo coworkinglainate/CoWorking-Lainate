@@ -1,8 +1,5 @@
-data-background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg"
 
 # Welcome to Smart Working Lainate
-
-![](https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg)
 
 ### _A Lainate, presso le Residenze Smart di Via Garbagnate 40/b_ 
 ### _è nato Il primo spazio CoWorking della città_   
@@ -15,6 +12,8 @@ data-background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/cowork
 #### - _Spazi privati dove effettuare riunioni o confernce call._ 
 
 >_Inoltre a Tua disposizione ci sarà una zona relax e break area dove potrai riposarti e preparti un buon thè o un buon caffè_  
+
+![ciao](https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg)
 
 #### **_[Come Raggiungerci!](https://www.google.com/maps/place/Via+Garbagnate,+40,+20020+Lainate+MI/data=!4m2!3m1!1s0x4786949b4475c127:0xf69ee47b2d416746?ved=2ahUKEwj2hu3X_vreAhUO3KQKHfYECDsQ8gEwAHoECAAQAQ)_**
 #### **_[Facebook](https://www.facebook.com/SmartWorkingLainate/)_**
