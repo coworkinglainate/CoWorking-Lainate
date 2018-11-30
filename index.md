@@ -19,4 +19,4 @@
 #### **_[Facebook](https://www.facebook.com/SmartWorkingLainate/)_**
 
 <img src="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 1000px;" />
