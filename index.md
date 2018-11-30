@@ -1,3 +1,5 @@
+{data-background-iframe="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg"}
+
 # Welcome to Smart Working Lainate
 
 ![](https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg)
