@@ -1,5 +1,3 @@
-<div style="text-align: right"> 
-
 # Welcome to Smart Working Lainate
 
 >### _A Lainate, presso le Residenze Smart di Via Garbagnate 40/b_ 
