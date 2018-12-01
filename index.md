@@ -22,4 +22,4 @@
 
 ### **_[Facebook](https://www.facebook.com/SmartWorkingLainate/)_**
 
-<body background="https://github.com/coworkinglainate/Smart-Working-Lainate/blob/master/coworking-residenze.png" alt="Homepage;">
+<body background="https://raw.githubusercontent.com/coworkinglainate/Smart-Working-Lainate/master/coworking-residenze.png" alt="Homepage;">
