@@ -5,7 +5,7 @@
 
 # **_Servizi e Struttura_**
 
-> ### **_Smart Working Lainate è la location perfetta per i Liberi Professionisti che hanno l'esigenza di lavorare in modo flessibile le tipologie di postazioni offrerte del nostro spazio sono_** 
+> ### **_Smart Working Lainate è la location perfetta per i Liberi Professionisti 0che hanno l'esigenza di lavorare in modo flessibile. Qui sotto troverete le varie tipologie di postazioni offrerte del nostro spazio_** 
 >
 > * ### **_Singola o di gruppo_** 
 > * ### **_Spazi privati dove effettuare riunioni o confernce call_** 
