@@ -22,4 +22,5 @@
 
 ### **_[Facebook](https://www.facebook.com/SmartWorkingLainate/)_**
 
-<body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg" alt="Homepage;" background="rgba(255,0,0,0);" opacity="1;">
+<body background="https://ams3.digitaloceanspaces.com/sempionenews/2016/06/coworking-residenze.jpg" alt="Homepage;" opacity="0.2;">
+  
