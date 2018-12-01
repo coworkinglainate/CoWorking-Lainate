@@ -5,10 +5,10 @@
 
 # **_Servizi e Struttura_**
 
-> ### **_Smart Working Lainate è perfetto per i Liberi Professionisti che hanno l'esigenza di lavorare in modo flessibile le tipologie di postazioni offrerte dal nostro spazio sono_** 
->
-> ### **_Singola o di gruppo_** *
-> ### **_Spazi privati dove effettuare riunioni o confernce call_** *
+> ### **_Smart Working Lainate è perfetto per i Liberi Professionisti che hanno l'esigenza di lavorare in modo flessibile le tipologie di postazioni offrerte del nostro spazio sono_** 
+
+> * ### **_Singola o di gruppo_** *
+> * ### **_Spazi privati dove effettuare riunioni o confernce call_** *
 >
 > ### **_Inoltre a Tua disposizione ci sarà una zona relax e break area dove potrai riposarti e preparti una bevanda calda_**
 >
