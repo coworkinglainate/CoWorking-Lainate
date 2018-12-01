@@ -18,8 +18,9 @@
 > 
 > ### **_Per info contattaci all'indirizzo e-mail <coworking@smartlainate.it>_**
 
-### <span style="color:black">[Come Raggiungerci!](https://www.google.com/maps/place/Via+Garbagnate,+40,+20020+Lainate+MI/data=!4m2!3m1!1s0x4786949b4475c127:0xf69ee47b2d416746?ved=2ahUKEwj2hu3X_vreAhUO3KQKHfYECDsQ8gEwAHoECAAQAQ)</span>
+### [Dove Siamo](https://www.google.com/maps/place/Via+Garbagnate,+40,+20020+Lainate+MI/data=!4m2!3m1!1s0x4786949b4475c127:0xf69ee47b2d416746?ved=2ahUKEwj2hu3X_vreAhUO3KQKHfYECDsQ8gEwAHoECAAQAQ)
 
-### <span style="color:black">[Facebook](https://www.facebook.com/SmartWorkingLainate/)</span>
+### [Facebook](https://www.facebook.com/SmartWorkingLainate/)
 
-<body background="https://raw.githubusercontent.com/coworkinglainate/Smart-Working-Lainate/master/coworking-residenze.png" alt="Homepage;" style="width:600px;" style="height:480px;"/>
+<body background="https://raw.githubusercontent.com/coworkinglainate/Smart-Working-Lainate/master/coworking-residenze.png" alt="Homepage;" style="width:1024px;" style="height:768px;" style=" style="text-align: center;"/>
+
