@@ -24,3 +24,5 @@
 
 <body background="https://raw.githubusercontent.com/coworkinglainate/Smart-Working-Lainate/master/coworking-residenze.png" alt="Homepage;" style="width:640px;" style="height:480px;" style="text-alingn:left;" style="background-size:auto-size;" style="opacity:0.9" style="background-position:center;" style="background-repeat:no-repeat;"/>
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
