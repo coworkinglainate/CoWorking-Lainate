@@ -22,4 +22,4 @@
 
 ### [Facebook](https://www.facebook.com/SmartWorkingLainate/)
 
-<body background="https://raw.githubusercontent.com/coworkinglainate/Smart-Working-Lainate/master/coworking-residenze.png" alt="Homepage;" style="auto;" style="auto;" style="text-alingn:left;" style="background-size:auto-size;" style="opacity:100" style="background-position:center;" style="background-repeat:no-repeat;" content="width=device-width, initial-scale=1.0"/>
+<body background="https://raw.githubusercontent.com/coworkinglainate/Smart-Working-Lainate/master/coworking-residenze.png" alt="Homepage;" style="weight:auto;" style="height:auto;" style="text-alingn:left;" style="background-size:auto-size;" style="opacity:0.9;" style="background-position:center;" style="background-repeat:no-repeat;" content="width=device-width, initial-scale=1.0"/>
